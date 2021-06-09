@@ -17,7 +17,7 @@ Alternatively, [find me on telegram](https://t.me/G9037944937)! (Keep all suppor
 
 To deploy me on heroku, use below button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template= https://github.com/njanunni777/tgbot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/njanunni777/tgbot.git)
 
 There is also a [tutorial video](https://youtu.be/W6CLKrehy6w) if you want any help on creating heroku clone.
 
